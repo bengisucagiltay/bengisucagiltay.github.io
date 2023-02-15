@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Understanding Factors that Shape Children's Long Term Engagement with an In-Home Learning Companion Robot"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publications/IDC22
+excerpt: ''
+date: 2022-5-18
+venue: 'Proceedings of the interaction design and children conference'
+paperurl: 'https://doi.org/10.1145/3501712.3529747'
+citation: 'Bengisu Cagiltay, Nathan Thomas White, Rabia Ibtasar, Bilge Mutlu, and Joseph Michaelis. 2022. Understanding Factors that Shape Children’s Long Term Engagement with an In-Home Learning Companion Robot. In Interaction Design and Children (IDC 22). Association for Computing Machinery, New York, NY, USA, 362–373.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://www.researchgate.net/profile/Bengisu-Cagiltay/publication/360655308_Understanding_Factors_that_Shape_Children's_Long_Term_Engagement_with_an_In-Home_Learning_Companion_Robot/links/6283d19fa5268672baf7d83c/Understanding-Factors-that-Shape-Childrens-Long-Term-Engagement-with-an-In-Home-Learning-Companion-Robot.pdf)
