@@ -1,6 +1,6 @@
 ---
 title: "Family Theories for Child-Robot Interaction"
-excerpt: "under construction"
+excerpt: ""
 collection: portfolio
 ---
 Details of my projects under this line of work will be updated soon…
