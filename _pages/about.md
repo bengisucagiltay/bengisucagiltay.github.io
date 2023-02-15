@@ -10,10 +10,18 @@ redirect_from:
 
 I am a third year PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison, with a PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/). My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://ii.metu.edu.tr/cognitive-science-ms) and [Bilkent University](https://w3.cs.bilkent.edu.tr/en/) respectively. 
 
-In my PhD research, I take a family-centered approach to designing social robot interactions for children. I mainly conduct qualitative and design based research, employ participatory design as a methodology, and use the [Misty robot platform](https://www.mistyrobotics.com). My prior work has received paper awards from ACM CHI and IDC conferences. 
+In my PhD research, I take a family-centered approach to designing social robot interactions for children that can support their social and intellectual learning. Through qualitative and design-based research, I explore how social robots can support children and families in various contexts, from connection making and caretaking to homework assistance and reading companionship. I use participatory design methodologies and the [Misty robot platform](https://www.mistyrobotics.com) to develop and test new interaction designs. My prior work has been recognized with paper awards from ACM CHI and IDC conferences.
 
-I follow two approaches in my research: (1) understanding preferences of children and family members for in-home social robots (2) designing and deploying social robots in lab settings or in the field.
-In my early work, I formed a general understanding of children's and families preferences for in-home social robots, and further explored other contexts including caretaking of an in-home robot, homework assistance, or unboxing a social robot. To expand this understanding of children's and families' preferences and apply them in real-world deployments, we designed a set of non-verbal emotional expressions and socially supportive verbal commentaries for the robot and conducted long-term field deployments of child-robot interactions for a reading companion robot. 
+My core research projects fall under two main approaches: (1) understanding preferences of children and family members for in-home social robots, and (2) designing social robot interactions for testing in lab settings or field deployments. We conducted studies to explore family preferences for in-home social robots, understanding the preferred roles, types of preferred activities, and concerns. To support more engaging and effective robot interactions, we developed non-verbal emotional expressions and socially supportive verbal commentaries for a reading companion robot, which we applied them through long-term in-home field deployments to evaluate children's engagement with the robot.
+
+
+By developing social robots that are tailored to the needs and preferences of children and families, I hope to contribute to a better understanding of how these technologies can be designed and used to improve families' lives.
+
+
+
+
+
+
 
 
 [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio)             |  [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio)
