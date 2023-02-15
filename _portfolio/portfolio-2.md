@@ -1,6 +1,6 @@
 ---
 title: "Designing Companion Robots for Long-Term In-Home Deployments"
-excerpt: "under construction"
+excerpt: ""
 collection: portfolio
 ---
 Details of my projects under this line of work will be updated soon…
