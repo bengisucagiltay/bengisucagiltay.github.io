@@ -8,22 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison. My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://ii.metu.edu.tr/cognitive-science-ms) and [Bilkent University](https://w3.cs.bilkent.edu.tr/en/) respectively. In my PhD research, I take a family-centered approach to designing social robot interactions for children. I mainly conduct qualitative research and employ participatory design as a methodology in my research. My prior work has received paper awards from ACM CHI and IDC conferences. You can find details about my past research projects below:
+I am a PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison, with a PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/). My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://ii.metu.edu.tr/cognitive-science-ms) and [Bilkent University](https://w3.cs.bilkent.edu.tr/en/) respectively. In my PhD research, I take a family-centered approach to designing social robot interactions for children. I mainly conduct qualitative and design based research, employ participatory design as a methodology, and use the [Misty robot platform](https://www.mistyrobotics.com). My prior work has received paper awards from ACM CHI and IDC conferences. 
 
-Designing Companion Robots for Long-Term In-Home Deployments
+I follow two approaches in my research: (1) understanding preferences of children and family members for in-home social robots (2) designing and deploying social robots in lab settings or in the field.
+In my early work, I formed a general understanding of children's and families preferences for in-home social robots, later we explored children's experiences of unboxing a social robot, and other contexts of caretaking or homework assistance (in progress). From understanding these design preferences, we then designed a set of non-verbal emotional expressions for a robot and conducted long-term field deployments of child-robot interactions for a reading companion robot. 
+
+
+(1) [Understanding preferences of children and family members for in-home social robots](https://github.com/bengisucagiltay/bengisucagiltay.github.io)
+=====
+Children's preferences of taking care of a social robot
+Unboxing the Social Robot: First Interactions with Social Robots at Home 
+
+
+(2) [Designing Companion Robots for Long-Term In-Home Deployments] (https://github.com/bengisucagiltay/bengisucagiltay.github.io)
 ======
-STEMMates: **Reading Companion Robot** 
+STEMMates: Reading Companion Robot
 Social robots in the wild.
 
-Designing Emotions for Companion Robots
-====
-
-Unboxing the Social Robot: First Interactions with Social Robots at Home 
-==
+Designing non-verbal emotion expressions for Companion Robots
 
 
-Communication Privacy Management for Social Robots at Family Homes
-======
+
+<!-- Communication Privacy Management for Social Robots at Family Homes
+====== -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 <!-- 
