@@ -9,34 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+My [full resume](bengisucagiltay.github.io/files/Resume_BengisuCagiltay.pdf) can be downloaded here.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Bilkent University, Turkey, 2018
+* M.S. in Cognitive Science, Middle East Technical University, Turkey, 2020
+* Ph.D in Computer Sciences, University of Wisconsin-Madison, 2025 (expected)
 
-Work experience
+Selected Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019 - Current: Graduate Research Assistant
+  * University of Wisconsin-Madison, People and Robots Laboratory
+  * Supervisor: Dr. Bilge Mutlu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Meta UX Research Intern
+  * Qualitative UX Research, Privacy
+
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +45,10 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Special Recognition for Outstanding Reviews,
+Designing Interactive Systems (DIS) 2022 Papers and Pictorials
+Human Factors in Computing Systems (CHI) 2023 Papers and Pictorials
