@@ -16,7 +16,7 @@ In my early work, I formed a general understanding of children's and families pr
 
 [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio)             |  [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio)
 :-------------------------:|:-------------------------:
-<img src=/images/Misty.JPG  width="600" height="300">  |  ![Sketch of an in-home deployment, child reading aloud to the robot](/images/sketch.png)
+<img src=/images/Misty.JPG  width="500" height="500">  |  <img src=/images/sketch.png  width="500" height="500">
 
 
 <!-- (1) [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio)
