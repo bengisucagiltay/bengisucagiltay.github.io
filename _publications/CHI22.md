@@ -1,5 +1,5 @@
 ---
-title: "The unboxing experience: Exploration and design of initial interactions between children and social robots"
+title: "(CHI22) The unboxing experience: Exploration and design of initial interactions between children and social robots"
 collection: publications
 permalink: /publications/CHI22
 excerpt: '**_Best Paper Honorable Mention Award_**'
