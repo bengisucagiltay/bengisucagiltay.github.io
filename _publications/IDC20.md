@@ -1,7 +1,7 @@
 ---
 title: "Investigating family perceptions and design preferences for an in-home robot"
 collection: publications
-permalink: /publications/IDC20
+permalink: /publication/IDC20
 excerpt: ''
 date: 2020
 venue: 'Proceedings of the interaction design and children conference'
