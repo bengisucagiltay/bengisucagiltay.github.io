@@ -14,13 +14,13 @@ I follow two approaches in my research: (1) understanding preferences of childre
 In my early work, I formed a general understanding of children's and families preferences for in-home social robots, later we explored children's experiences of unboxing a social robot, and other contexts of caretaking or homework assistance (in progress). From understanding these design preferences, we then designed a set of non-verbal emotional expressions for a robot and conducted long-term field deployments of child-robot interactions for a reading companion robot. 
 
 
-(1) [Understanding preferences of children and family members for in-home social robots](https://github.com/bengisucagiltay/bengisucagiltay.github.io)
+(1) [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio)
 =====
 Children's preferences of taking care of a social robot
 Unboxing the Social Robot: First Interactions with Social Robots at Home 
 
 
-(2) [Designing Companion Robots for Long-Term In-Home Deployments] (https://github.com/bengisucagiltay/bengisucagiltay.github.io)
+(2) [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio)
 ======
 STEMMates: Reading Companion Robot
 Social robots in the wild.
