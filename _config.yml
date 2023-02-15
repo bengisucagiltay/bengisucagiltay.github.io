@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bengisu Cagiltay"
   avatar           : "profile.png"
-  bio              : "PhD student passionate about designing social robot interactions for children and families."
+  bio              : "PhD student passionate about designing social robots for children and families."
   location         : "Madison, WI, USA"
   employer         : #"People and Robots Laboratory, University of Wisconsin-Madison"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/bengisucagiltay/"
+  linkedin         : "bengisucagiltay"
   orcid            : "https://orcid.org/0000-0001-7024-4957"
   pinterest        :
   soundcloud       :
