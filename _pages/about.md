@@ -24,7 +24,7 @@ By developing social robots that are tailored to the needs and preferences of ch
 
 
 
-[Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio)             |  [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio)
+[Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio/portfolio1)             |  [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio/portfolio-2)
 :-------------------------:|:-------------------------:
 <img src="/images/Misty.JPG"  width="300" height="200">  |  <img src="/images/sketch.png"  width="500" height="200">
 
