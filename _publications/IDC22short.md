@@ -1,5 +1,5 @@
 ---
-title: "Exploring Children’s Preferences for Taking Care of a Social Robot"
+title: "(IDC22) Exploring Children’s Preferences for Taking Care of a Social Robot"
 collection: publications
 permalink: /publications/IDC22short
 excerpt: '**_Best Short Paper Award_**'
