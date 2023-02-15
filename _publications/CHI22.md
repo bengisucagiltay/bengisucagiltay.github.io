@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CHI22
 excerpt: ''
 date: 2022-4-27
-venue: 'Proceedings of the interaction design and children conference'
+venue: 'Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)'
 paperurl: 'https://doi.org/10.1145/3491102.3501955'
 citation: 'Christine P Lee, Bengisu Cagiltay, and Bilge Mutlu. 2022. The Unboxing Experience: Exploration and Design of Initial Interactions Between Children and Social Robots. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 22). Association for Computing Machinery, New York, NY, USA, Article 151, 1–14.'
 ---
