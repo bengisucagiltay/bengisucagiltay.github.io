@@ -1,5 +1,5 @@
 ---
-title: "Understanding Factors that Shape Children's Long Term Engagement with an In-Home Learning Companion Robot"
+title: "(IDC22) Understanding Factors that Shape Children's Long Term Engagement with an In-Home Learning Companion Robot"
 collection: publications
 permalink: /publications/IDC22
 excerpt: ''
