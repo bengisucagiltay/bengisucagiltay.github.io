@@ -1,6 +1,6 @@
 ---
 title: "Understanding preferences of children and family members for in-home social robots"
-excerpt: "under construction"
+excerpt: ""
 collection: portfolio
 ---
 
