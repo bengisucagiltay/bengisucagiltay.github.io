@@ -1,5 +1,5 @@
 ---
-title: "Investigating family perceptions and design preferences for an in-home robot"
+title: "(IDC20) Investigating family perceptions and design preferences for an in-home robot"
 collection: publications
 permalink: /publications/IDC20
 excerpt: ''
