@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My [full resume](files/Resume_BengisuCagiltay.pdf) can be downloaded here.
+My [full resume](bengisucagiltay.github.io/files/Resume_BengisuCagiltay.pdf) can be downloaded here.
 
 Education
 ======
