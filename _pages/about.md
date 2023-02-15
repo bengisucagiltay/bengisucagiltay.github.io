@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison, with a PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/). My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://ii.metu.edu.tr/cognitive-science-ms) and [Bilkent University](https://w3.cs.bilkent.edu.tr/en/) respectively. 
+I am a third year PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison, with a PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/). My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://ii.metu.edu.tr/cognitive-science-ms) and [Bilkent University](https://w3.cs.bilkent.edu.tr/en/) respectively. 
 
 In my PhD research, I take a family-centered approach to designing social robot interactions for children. I mainly conduct qualitative and design based research, employ participatory design as a methodology, and use the [Misty robot platform](https://www.mistyrobotics.com). My prior work has received paper awards from ACM CHI and IDC conferences. 
 
