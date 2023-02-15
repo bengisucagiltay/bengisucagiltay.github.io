@@ -1,5 +1,5 @@
 ---
-title: "Off Script: Design Opportunities Emerging from Long-Term Social Robot Interactions In-the-Wild"
+title: "(HRI23) Off Script: Design Opportunities Emerging from Long-Term Social Robot Interactions In-the-Wild"
 collection: publications
 permalink: /publications/HRI23
 excerpt: ''
