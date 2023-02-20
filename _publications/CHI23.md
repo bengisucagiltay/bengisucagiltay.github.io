@@ -11,8 +11,8 @@ Privacy. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Co
 Hamburg, Germany. ACM, New York, NY, USA'
 ---
 
-[Download Extended Abstract here](https://bengisucagiltay.github.io/files/CHI23_DC_EA_BengisuCagiltay.pdf)
+[View and Download Extended Abstract here](https://bengisucagiltay.github.io/files/CHI23_DC_EA_BengisuCagiltay.pdf)
 
 
 
-[Download Poster here](https://bengisucagiltay.github.io/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf)
+[View and Download Poster here](https://bengisucagiltay.github.io/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf)
