@@ -3,7 +3,7 @@ title: "(CHI23 Doctoral Consortium) Designing for In-Home Long-Term Family-Robot
 collection: publications
 permalink: /publications/CHI23
 excerpt: 'Doctoral Consortium Extended Abstract'
-date: 2022-4-27
+date: 2023-4-23
 venue: 'Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://doi.org/10.1145/3544549.3577035'
 citation: 'Bengisu Cagiltay. 2023. Designing for In-Home Long-Term Family-Robot Interactions: Family Preferences, Connection-Making, and
