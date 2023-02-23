@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Bengisu Cagiltay"
 title_separator          : "-"
+namecoach                : "https://www.name-coach.com/bengisu-cagiltay"
 name                     : &name "Bengisu Cagiltay"
 description              : &description "Personal Website"
 url                      : https://bengisucagiltay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
