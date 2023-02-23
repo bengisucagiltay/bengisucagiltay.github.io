@@ -1,5 +1,5 @@
 ---
-title: "(CHI23 Doctoral Consortium) Designing for In-Home Long-Term Family-Robot Interactions: Family Preferences, Connection-Making, and Privacy"
+title: "(CHI23) Designing for In-Home Long-Term Family-Robot Interactions: Family Preferences, Connection-Making, and Privacy"
 collection: publications
 permalink: /publications/CHI23
 excerpt: '_**Doctoral Consortium** Extended Abstract_'
