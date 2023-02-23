@@ -16,3 +16,7 @@ Hamburg, Germany. ACM, New York, NY, USA'
 
 
 [View and Download Poster here](https://bengisucagiltay.github.io/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf)
+
+Watch my Poster Talk Here:
+<iframe width="480" height="360" src="https://youtu.be/GSLxBz3P49g" frameborder="0"> </iframe>
+
