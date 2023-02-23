@@ -2,7 +2,7 @@
 title: "(CHI23 Doctoral Consortium) Designing for In-Home Long-Term Family-Robot Interactions: Family Preferences, Connection-Making, and Privacy"
 collection: publications
 permalink: /publications/CHI23
-excerpt: '_**Doctoral Consortium Extended Abstract**_'
+excerpt: '_**Doctoral Consortium** Extended Abstract_'
 date: 2023-4-23
 venue: 'Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://doi.org/10.1145/3544549.3577035'
