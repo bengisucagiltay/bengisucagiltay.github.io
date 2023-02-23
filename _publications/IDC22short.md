@@ -3,7 +3,7 @@ title: "(IDC22) Exploring Children’s Preferences for Taking Care of a Social R
 collection: publications
 permalink: /publications/IDC22short
 excerpt: '**_Best Short Paper Award_**'
-date: 2022-5-18
+date: 2022-05-18
 venue: 'Proceedings of the interaction design and children conference'
 paperurl: 'https://doi.org/10.1145/3501712.3529721'
 citation: 'Bengisu Cagiltay, Joseph Michaelis, Sarah Sebo, and Bilge Mutlu. 2022. Exploring Children’s Preferences for Taking Care of a Social Robot. In Interaction Design and Children (IDC 22). Association for Computing Machinery, New York, NY, USA, 382–388.'
