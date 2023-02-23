@@ -11,5 +11,4 @@ citation: 'Christine P Lee, Bengisu Cagiltay, and Bilge Mutlu. 2022. The Unboxin
 
 [Download paper here](https://www.researchgate.net/profile/Christine-Lee-72/publication/358689687_The_Unboxing_Experience_Exploration_and_Design_of_Initial_Interactions_Between_Children_and_Social_Robots/links/6213c5d86c472329dcfb82d4/The-Unboxing-Experience-Exploration-and-Design-of-Initial-Interactions-Between-Children-and-Social-Robots.pdf)
 
-Watch our Paper Talk Here:
-<iframe width="480" height="360" src="https://youtu.be/1LMYwqfzD84" frameborder="0"> </iframe>
+[Watch our Paper Talk Here](https://youtu.be/1LMYwqfzD84)
