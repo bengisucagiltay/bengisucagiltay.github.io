@@ -2,7 +2,7 @@
 title: "(IDC22) Exploring Children’s Preferences for Taking Care of a Social Robot"
 collection: publications
 permalink: /publications/IDC22short
-excerpt: '**_Best Short Paper Award_**'
+excerpt: '🏆**_Best Short Paper Award_**'
 date: 2022-05-18
 venue: 'Proceedings of the interaction design and children conference'
 paperurl: 'https://doi.org/10.1145/3501712.3529721'
