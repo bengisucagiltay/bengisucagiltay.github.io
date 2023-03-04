@@ -13,9 +13,9 @@ My [full resume](https://bengisucagiltay.github.io/files/Resume_BengisuCagiltay.
 
 Education
 ======
-* B.S. in Computer Science, Bilkent University, Turkey, 2018
-* M.S. in Cognitive Science, Middle East Technical University, Turkey, 2020
 * Ph.D in Computer Sciences, University of Wisconsin-Madison, 2025 (expected)
+* M.S. in Cognitive Science, Middle East Technical University, Turkey, 2020
+* B.S. in Computer Science, Bilkent University, Turkey, 2018
 
 Selected Work Experience
 ======
@@ -27,28 +27,9 @@ Selected Work Experience
   * Qualitative UX Research, Privacy
 
 
-  
-
-<!-- Publications
+Service and Leadership
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-Service and leadership
-======
+* Reviewer for ACM HRI, CHI, IDC, DIS Conferences, Frontiers in Robotics & AI, Int Journal of Interaction Studies, Int Journal of Social Robotics
 * Special Recognition for Outstanding Reviews,
 Designing Interactive Systems (DIS) 2022 Papers and Pictorials
 Human Factors in Computing Systems (CHI) 2023 Papers and Pictorials
