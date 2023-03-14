@@ -14,7 +14,7 @@ citation: 'Christine P Lee, Bengisu Cagiltay, and Bilge Mutlu. 2022. The Unboxin
 [Watch our Paper Talk Here](https://youtu.be/1LMYwqfzD84)
 
 
---------HRI 2023 Demo -- Companion Paper --------
+-------HRI 2023 Demo -- Companion Paper --------
 
 [Download our HRI 2023 Demo - Companion Paper](https://bengisucagiltay.github.io/files/HRI23-Unboxing-Demo.pdf)
 
