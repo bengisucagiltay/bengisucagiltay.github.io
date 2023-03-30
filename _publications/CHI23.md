@@ -19,6 +19,6 @@ Hamburg, Germany. ACM, New York, NY, USA'
 
 [Watch my Poster Talk Here](https://youtu.be/GSLxBz3P49g)
 
-[![Watch our Paper Talk Here](https://img.youtube.com/vi/GSLxBz3P49g/2.jpg)](https://youtu.be/GSLxBz3P49g)
+[![Watch our Paper Talk Here](https://img.youtube.com/vi/GSLxBz3P49g/1.jpg)](https://youtu.be/GSLxBz3P49g)
 
 
