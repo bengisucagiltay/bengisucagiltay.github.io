@@ -12,3 +12,5 @@ citation: 'Bengisu Cagiltay, Nathan Thomas White, Rabia Ibtasar, Bilge Mutlu, an
 [Download paper here](https://www.researchgate.net/profile/Bengisu-Cagiltay/publication/360655308_Understanding_Factors_that_Shape_Children's_Long_Term_Engagement_with_an_In-Home_Learning_Companion_Robot/links/6283d19fa5268672baf7d83c/Understanding-Factors-that-Shape-Childrens-Long-Term-Engagement-with-an-In-Home-Learning-Companion-Robot.pdf)
 
 [Watch our Paper Talk Here](https://youtu.be/pccow6lkc88)
+
+[![Watch our Paper Talk Here](https://img.youtube.com/vi/pccow6lkc88/2.jpg)](https://youtu.be/pccow6lkc88)
