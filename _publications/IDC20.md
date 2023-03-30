@@ -12,3 +12,5 @@ citation: 'Bengisu Cagiltay, Hui-Ru Ho, Joseph E Michaelis, and Bilge Mutlu. 202
 [Download paper here](https://www.researchgate.net/profile/Bengisu-Cagiltay/publication/344073429_Investigating_Family_Perceptions_and_Design_Preferences_for_an_In-Home_Robot/links/5f5104d9a6fdcc9879c609cc/Investigating-Family-Perceptions-and-Design-Preferences-for-an-In-Home-Robot.pdf)
 
 [Watch our Paper Talk Here](https://youtu.be/P2nFoD60hcA)
+
+[![Watch our Paper Talk Here](https://img.youtube.com/vi/P2nFoD60hcA/2.jpg)](https://youtu.be/P2nFoD60hcA)
