@@ -12,3 +12,5 @@ citation: 'Bengisu Cagiltay, Joseph Michaelis, Sarah Sebo, and Bilge Mutlu. 2022
 [Download paper here](https://www.researchgate.net/profile/Bengisu-Cagiltay/publication/360655556_Exploring_Children's_Preferences_for_Taking_Care_of_a_Social_Robot/links/6283d007a629047e3a9a922a/Exploring-Childrens-Preferences-for-Taking-Care-of-a-Social-Robot.pdf)
 
 [Watch our Paper Talk Here](https://youtu.be/NkfktJ4tZWk)
+
+[![Watch our Paper Talk Here](https://img.youtube.com/vi/NkfktJ4tZWk/2.jpg)](https://youtu.be/NkfktJ4tZWk)
