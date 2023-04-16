@@ -20,8 +20,8 @@ By developing social robots that are tailored to the needs and preferences of ch
 
 
 
-
 [Research Projects](https://bengisucagiltay.github.io/portfolio)
+
 <img src="/images/ResearchThemes.png"  width="500" height="500">
 
 <!-- 
