@@ -12,7 +12,8 @@ I am a third year PhD student at the [People and Robots Laboratory](https://peop
 
 In my PhD research, I take a family-centered approach to designing social robot interactions for children that can support their social and intellectual learning. Through qualitative and design-based research, I explore how social robots can support children and families in various contexts, from connection making and caretaking to homework assistance and reading companionship. I use participatory design methodologies and the [Misty robot platform](https://www.mistyrobotics.com) to develop and test new interaction designs. My prior work has been recognized with paper awards from ACM CHI and IDC conferences.
 
-In my core research projects, I take two main approaches: (1) understanding preferences of children and family members for in-home social robots, and (2) designing social companion robots for long-term in-home deployments with families. 
+My past research projects can be categorized in the following themes, 1) Exploring families' preferences for social robots 2)Designing social companion robot interactions for children and families 3) Deploying robots in family homes 4) Forming theoretical knowledge from interdisciplinary insights (Family Studies, Communication Sciences, Human-Computer Interaction)
+<!-- two main approaches: (1) understanding preferences of children and family members for in-home social robots, and (2) designing social companion robots for long-term in-home deployments with families.  -->
 <!-- We conducted studies to explore families' preferred roles and activities for social robots, as well as any concerns towards robots at home. To support more engaging and effective robot interactions, we developed non-verbal emotional expressions and socially supportive verbal commentaries for a reading companion robot, which we applied them through long-term in-home field deployments to evaluate children's interactions with the robot. -->
 By developing social robots that are tailored to the needs and preferences of children and families, I hope to contribute to a better understanding of how these technologies can be designed and used to improve families' lives.
 
@@ -20,13 +21,15 @@ By developing social robots that are tailored to the needs and preferences of ch
 
 
 
+[Thematic Illustration of my Research](https://bengisucagiltay.github.io/portfolio)
+:-------------------------:|
+<img src="/images/ResearchThemes.png"  width="300" height="200">
 
-
-
+<!-- 
 [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio/portfolio-1)             |  [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio/portfolio-2)
 :-------------------------:|:-------------------------:
 <img src="/images/Misty.JPG"  width="300" height="200">  |  <img src="/images/sketch.png"  width="500" height="200">
-
+ -->
 
 <!-- (1) [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio)
 
