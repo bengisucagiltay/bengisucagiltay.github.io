@@ -10,6 +10,7 @@ citation: 'Joseph E. Michaelis, Bengisu Cagiltay, Rabia Ibtasar, and Bilge Mutlu
 ---
 
 [Download paper here](https://bengisucagiltay.github.io/files/HRI23-Michaelis-Cagiltay.pdf)
+<iframe src="/files/HRI23-Michaelis-Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
 
 
