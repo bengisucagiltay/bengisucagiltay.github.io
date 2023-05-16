@@ -14,6 +14,7 @@ Hamburg, Germany. ACM, New York, NY, USA'
 [View and Download Extended Abstract here](https://bengisucagiltay.github.io/files/CHI23_DC_EA_BengisuCagiltay.pdf)
 
 
+<iframe src="/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
 [View and Download Poster here](https://bengisucagiltay.github.io/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf)
 
