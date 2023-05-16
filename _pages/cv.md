@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-My [full resume](https://bengisucagiltay.github.io/files/Resume_BengisuCagiltay.pdf) can be downloaded here.
+My [full resume](bengisucagiltay.github.io/files/Resume_BengisuCagiltay.pdf) can be downloaded here.
+
+<iframe src="/files/Resume_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
 Education
 ======
