@@ -11,6 +11,9 @@ citation: 'Christine P Lee, Bengisu Cagiltay, and Bilge Mutlu. 2022. The Unboxin
 
 [Download paper here](https://www.researchgate.net/profile/Christine-Lee-72/publication/358689687_The_Unboxing_Experience_Exploration_and_Design_of_Initial_Interactions_Between_Children_and_Social_Robots/links/6213c5d86c472329dcfb82d4/The-Unboxing-Experience-Exploration-and-Design-of-Initial-Interactions-Between-Children-and-Social-Robots.pdf)
 
+<iframe src="www.researchgate.net/profile/Christine-Lee-72/publication/358689687_The_Unboxing_Experience_Exploration_and_Design_of_Initial_Interactions_Between_Children_and_Social_Robots/links/6213c5d86c472329dcfb82d4/The-Unboxing-Experience-Exploration-and-Design-of-Initial-Interactions-Between-Children-and-Social-Robots.pdf" width="100%" height="480" allow="autoplay"></iframe>
+
+
 [Watch our Paper Talk Here](https://youtu.be/1LMYwqfzD84)
 
 [![Watch our Paper Talk Here](https://img.youtube.com/vi/1LMYwqfzD84/2.jpg)](https://youtu.be/1LMYwqfzD84)
@@ -21,6 +24,9 @@ citation: 'Christine P Lee, Bengisu Cagiltay, and Bilge Mutlu. 2022. The Unboxin
 At HRI2023, we demonstrated the product packaging that was the designed artifact as an outcome from our CHI 2022 publication.
 
 [Download our HRI 2023 Demo - Companion Paper](https://bengisucagiltay.github.io/files/HRI23-Unboxing-Demo.pdf)
+
+<iframe src="/files/HRI23-Unboxing-Demo.pdf" width="100%" height="480" allow="autoplay"></iframe>
+
 
 
 Christine P. Lee, Bengisu Cagiltay, Dakota Sullivan, and Bilge Mutlu. 2023. Demonstrating the Potential of Interactive Product Packaging for Enriching Human-Robot Interaction. In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI '23). Association for Computing Machinery, New York, NY, USA, 899–901. https://doi.org/10.1145/3568294.3580038
