@@ -1,5 +1,5 @@
 ---
-title: "Family Theories in Child-Robot Interactions: Understanding Families as a Whole for Child-Robot Interaction Design"
+title: "(IDC23) Family Theories in Child-Robot Interactions: Understanding Families as a Whole for Child-Robot Interaction Design"
 collection: publications
 permalink: /publications/IDC23-short
 excerpt: ''
