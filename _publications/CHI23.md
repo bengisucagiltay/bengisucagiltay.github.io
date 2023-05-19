@@ -12,16 +12,12 @@ Hamburg, Germany. ACM, New York, NY, USA'
 ---
 
 [View and Download Extended Abstract here](https://bengisucagiltay.github.io/files/CHI23_DC_EA_BengisuCagiltay.pdf)
-<iframe src="/files/CHI23_DC_EA_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
-
-
-
 [View and Download Poster here](https://bengisucagiltay.github.io/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf)
-<iframe src="/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
-
-
 [Watch my Poster Talk Here](https://youtu.be/GSLxBz3P49g)
 
-[![Watch our Paper Talk Here](https://img.youtube.com/vi/GSLxBz3P49g/1.jpg)](https://youtu.be/GSLxBz3P49g)
+<iframe src="/files/CHI23_DC_EA_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="/files/CHI23-DC-Poster-grayscale_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/GSLxBz3P49g"></iframe>
+
 
 
