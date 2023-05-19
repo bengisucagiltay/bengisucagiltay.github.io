@@ -12,7 +12,4 @@ citation: 'Bengisu Cagiltay, Bilge Mutlu, and Margaret Kerr. 2023 (in press). Fa
 [Download paper here](https://bengisucagiltay.github.io/files/IDC23_Family_Systems_Theory_BengisuCagiltay.pdf)
 <iframe src="/files/IDC23_Family_Systems_Theory_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
-
-<!-- [Watch our Paper Talk Here]() -->
-
-<!-- [![Watch our Paper Talk Here]() -->
+<!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/"></iframe> -->
