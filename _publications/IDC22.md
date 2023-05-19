@@ -11,9 +11,9 @@ citation: 'Bengisu Cagiltay, Nathan Thomas White, Rabia Ibtasar, Bilge Mutlu, an
 
 [Download paper here](/files/IDC22-Cagiltay.pdf)
 
-<iframe src="/files/IDC22-Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
-
-
 [Watch our Paper Talk Here](https://youtu.be/pccow6lkc88)
 
-[![Watch our Paper Talk Here](https://img.youtube.com/vi/pccow6lkc88/2.jpg)](https://youtu.be/pccow6lkc88)
+
+<iframe src="/files/IDC22-Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/pccow6lkc88"></iframe>
