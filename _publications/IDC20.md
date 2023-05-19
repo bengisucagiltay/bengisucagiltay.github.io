@@ -11,8 +11,10 @@ citation: 'Bengisu Cagiltay, Hui-Ru Ho, Joseph E Michaelis, and Bilge Mutlu. 202
 
 [Download paper here](/files/IDC20-Cagiltay.pdf)
 
-<iframe src="/files/IDC20-Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
-
 [Watch our Paper Talk Here](https://youtu.be/P2nFoD60hcA)
 
-[![Watch our Paper Talk Here](https://img.youtube.com/vi/P2nFoD60hcA/2.jpg)](https://youtu.be/P2nFoD60hcA)
+
+<iframe src="/files/IDC20-Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/P2nFoD60hcA"></iframe>
+
