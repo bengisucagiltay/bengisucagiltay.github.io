@@ -14,10 +14,11 @@ citation: 'Christine P Lee, Bengisu Cagiltay, and Bilge Mutlu. 2022. The Unboxin
 <iframe src="/files/CHI22-Unboxing-Lee.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
 
-[Watch our Paper Talk Here](https://youtu.be/1LMYwqfzD84)
+<!-- [Watch our Paper Talk Here](https://youtu.be/1LMYwqfzD84) -->
 
-[![Watch our Paper Talk Here](https://img.youtube.com/vi/1LMYwqfzD84/2.jpg)](https://youtu.be/1LMYwqfzD84)
+<!-- [![Watch our Paper Talk Here](https://img.youtube.com/vi/1LMYwqfzD84/2.jpg)](https://youtu.be/1LMYwqfzD84) -->
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1LMYwqfzD84"></iframe>
 
 ## HRI 2023 Demo -- Companion Paper 
 
@@ -31,6 +32,9 @@ At HRI2023, we demonstrated the product packaging that was the designed artifact
 
 Christine P. Lee, Bengisu Cagiltay, Dakota Sullivan, and Bilge Mutlu. 2023. Demonstrating the Potential of Interactive Product Packaging for Enriching Human-Robot Interaction. In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI '23). Association for Computing Machinery, New York, NY, USA, 899–901. https://doi.org/10.1145/3568294.3580038
 
-[HRI 2023 Demo - Companion Video](https://www.youtube.com/watch?v=CJCNpDZGOIM)
+<!-- [HRI 2023 Demo - Companion Video](https://www.youtube.com/watch?v=CJCNpDZGOIM) -->
 
-[![Watch our Paper Talk Here](https://img.youtube.com/vi/CJCNpDZGOIM/2.jpg)](https://youtu.be/1LMYwqfzD84)
+<!-- [![Watch our Paper Talk Here](https://img.youtube.com/vi/CJCNpDZGOIM/2.jpg)](https://youtu.be/1LMYwqfzD84) -->
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/CJCNpDZGOIM"></iframe>
+
