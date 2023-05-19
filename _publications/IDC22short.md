@@ -11,9 +11,8 @@ citation: 'Bengisu Cagiltay, Joseph Michaelis, Sarah Sebo, and Bilge Mutlu. 2022
 
 [Download paper here](/files/IDC22-Short-Cagiltay.pdf)
 
-<iframe src="/files/IDC22-Short-Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
-
-
 [Watch our Paper Talk Here](https://youtu.be/NkfktJ4tZWk)
 
-[![Watch our Paper Talk Here](https://img.youtube.com/vi/NkfktJ4tZWk/2.jpg)](https://youtu.be/NkfktJ4tZWk)
+<iframe src="/files/IDC22-Short-Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/NkfktJ4tZWk"></iframe>
