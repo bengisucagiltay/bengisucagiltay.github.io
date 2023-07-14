@@ -24,6 +24,9 @@ By developing social robots that are tailored to the needs and preferences of ch
 
 <img src="/images/ResearchThemes.png"  width="500" height="500">
 
+Paper Talks Youtube Playlist
+<iframe width="420" height="315" src="https://www.youtube.com/embed/PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS"></iframe>
+
 <!-- 
 [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio/portfolio-1)             |  [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio/portfolio-2)
 :-------------------------:|:-------------------------:
