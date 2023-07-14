@@ -24,7 +24,8 @@ By developing social robots that are tailored to the needs and preferences of ch
 
 <img src="/images/ResearchThemes.png"  width="500" height="500">
 
-Paper Talks Youtube Playlist
+[My YouTube Playlist of Paper Talks](https://youtube.com/playlist?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS)
+
 <iframe width="220" height="115" src="https://www.youtube.com/embed/videoseries?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
