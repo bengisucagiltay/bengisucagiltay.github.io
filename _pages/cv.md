@@ -16,7 +16,7 @@ My [full resume](bengisucagiltay.github.io/files/Resume_BengisuCagiltay.pdf) can
 Education
 ======
 * Ph.D. in Computer Sciences, University of Wisconsin-Madison, 2025 (expected)
-*   Ph.D. Minor in Human Development and Family Studies
+  * Ph.D. Minor in Human Development and Family Studies
 * M.S. in Cognitive Science, Middle East Technical University, Turkey, 2020
 * B.S. in Computer Science, Bilkent University, Turkey, 2018
 
