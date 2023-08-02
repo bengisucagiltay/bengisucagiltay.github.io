@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+You can download my full resume [here](/files/Resume_BengisuCagiltay.pdf)
 <iframe src="/files/Resume_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
 Education
