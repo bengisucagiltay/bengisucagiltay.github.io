@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth year PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison, with a PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/). My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://cogs.metu.edu.tr/en) and [Bilkent University](https://w3.cs.bilkent.edu.tr) respectively. I take an interdisciplinary lens in my research, with the intersection of computer science, cognitive science, social robotics, design, and family studies.
 
-In my PhD research, I take a family-centered approach to designing interactions for social companion robots tailored to the needs and preferences of children and families. Through qualitative and design-based research, I explore how these technologies can be used to improve families’ lives, facilitate their routines, and support connections. My prior work has been recognized with paper awards from ACM CHI and IDC conferences.
+In my PhD research, I take a family-centered approach to developing social companion robots tailored to the needs and preferences of children and families. Through qualitative and design-based research, I explore how these technologies can be used to improve families’ lives, facilitate their routines, and support connections. My prior work has been recognized with paper awards from ACM CHI and IDC conferences.
 
 My past research projects can be categorized in the following themes:
 
@@ -21,10 +21,6 @@ My past research projects can be categorized in the following themes:
 3) Deploying robots in family homes (e.g., [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))
 
 4) Forming theoretical knowledge from interdisciplinary insights (e.g., [Family Studies](https://bengisucagiltay.github.io/publications/IDC23-short), Communication Sciences, Human-Computer Interaction).
-
-By developing social robots that are tailored to the needs and preferences of children and families, I hope to contribute to a better understanding of how these technologies can be designed and used to improve families' lives.
-
-
 
 
 [Selected Publications](https://bengisucagiltay.github.io/publications/)
