@@ -14,9 +14,9 @@ In my PhD research, I take a family-centered approach to designing interactions 
 
 My past research projects can be categorized in the following themes:
 
-1) Exploring families' preferences for social robots (e.g., [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), [homework assistants](https://bengisucagiltay.github.io/publications/IDC23))
+1) Exploring families' preferences for social robots (e.g., [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23))
 
-2) Designing social robot interactions for children and families (e.g., [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22), [emotion design](https://bengisucagiltay.github.io/publications/IDC21)
+2) Designing social robot interactions for children and families (e.g., [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22), [emotion design](https://bengisucagiltay.github.io/publications/IDC21) )
 
 3) Deploying robots in family homes (e.g., [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))
 
