@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison, with a PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/). My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://cogs.metu.edu.tr/en) and [Bilkent University](https://w3.cs.bilkent.edu.tr) respectively. I take an interdisciplinary lens in my research, with the intersection of computer science, cognitive science, social robotics, design, and family studies.
+I am a fourth year PhD student at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) in the Computer Sciences Department of University of Wisconsin-Madison, with a PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/). My primary advisor is Dr. Bilge Mutlu. I received my MS degree in Cognitive Science ('20) and a BS degree in Computer Science ('18) from [Middle East Technical University](https://cogs.metu.edu.tr/en) and [Bilkent University](https://w3.cs.bilkent.edu.tr) respectively. I take an interdisciplinary lens in my research, with the intersection of computer science, cognitive science, social robotics, design, and family studies.
 
-In my PhD research, I take a family-centered approach to designing social robot interactions for children that can support their social and intellectual learning. Through qualitative and design-based research, I explore how social robots can support children and families in various contexts, from connection making and caretaking to homework assistance and reading companionship. I use participatory design methodologies and the [Misty robot platform](https://www.mistyrobotics.com) to develop and test new interaction designs. My prior work has been recognized with paper awards from ACM CHI and IDC conferences.
+In my PhD research, I take a family-centered approach to designing interactions for social companion robots tailored to the needs and preferences of children and families. Through qualitative and design-based research, I explore how these technologies can be used to improve families’ lives, facilitate their routines, and support connections. My prior work has been recognized with paper awards from ACM CHI and IDC conferences.
 
-My past research projects can be categorized in the following themes, 1) Exploring families' preferences for social robots 2)Designing social companion robot interactions for children and families 3) Deploying robots in family homes 4) Forming theoretical knowledge from interdisciplinary insights (Family Studies, Communication Sciences, Human-Computer Interaction)
-<!-- two main approaches: (1) understanding preferences of children and family members for in-home social robots, and (2) designing social companion robots for long-term in-home deployments with families.  -->
-<!-- We conducted studies to explore families' preferred roles and activities for social robots, as well as any concerns towards robots at home. To support more engaging and effective robot interactions, we developed non-verbal emotional expressions and socially supportive verbal commentaries for a reading companion robot, which we applied them through long-term in-home field deployments to evaluate children's interactions with the robot. -->
+My past research projects can be categorized in the following themes, 1) Exploring families' preferences for social robots (e.g., in-home robots as reading companions, caretaking, homework assistants) 2) Designing social robot interactions for children and families 3) Deploying robots in family homes (e.g., [Misty robot platform](https://www.mistyrobotics.com)) 4) Forming theoretical knowledge from interdisciplinary insights (e.g., Family Studies, Communication Sciences, Human-Computer Interaction).
 By developing social robots that are tailored to the needs and preferences of children and families, I hope to contribute to a better understanding of how these technologies can be designed and used to improve families' lives.
 
 
@@ -29,23 +27,8 @@ By developing social robots that are tailored to the needs and preferences of ch
 <iframe width="220" height="115" src="https://www.youtube.com/embed/videoseries?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<!-- (1) [Understanding preferences of children and family members for in-home social robots](https://bengisucagiltay.github.io/portfolio)
-
-Children's preferences of taking care of a social robot
-Unboxing the Social Robot: First Interactions with Social Robots at Home 
 
 
-(2) [Designing Companion Robots for Long-Term In-Home Deployments](https://bengisucagiltay.github.io/portfolio)
-
-STEMMates: Reading Companion Robot
-Social robots in the wild.
-
-Designing non-verbal emotion expressions for Companion Robots -->
-
-
-
-<!-- Communication Privacy Management for Social Robots at Family Homes
-====== -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 <!-- 
