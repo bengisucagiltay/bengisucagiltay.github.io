@@ -14,8 +14,11 @@ In my PhD research, I take a family-centered approach to designing interactions 
 
 My past research projects can be categorized in the following themes:\n
 1) Exploring families' preferences for social robots (e.g., in-home robots as reading companions, caretaking, homework assistants) \n
+
 2) Designing social robot interactions for children and families \n
+
 3) Deploying robots in family homes (e.g., [Misty robot platform](https://www.mistyrobotics.com)) \n
+
 4) Forming theoretical knowledge from interdisciplinary insights (e.g., Family Studies, Communication Sciences, Human-Computer Interaction).
 
 By developing social robots that are tailored to the needs and preferences of children and families, I hope to contribute to a better understanding of how these technologies can be designed and used to improve families' lives.
