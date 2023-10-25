@@ -27,9 +27,10 @@ In my PhD research, I take a family-centered approach to developing social compa
 ## Talks and Selected Publications
 
 [Selected Publications](https://bengisucagiltay.github.io/publications/)
+
 [My YouTube Playlist of Paper Talks](https://youtube.com/playlist?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS)
 
-<iframe width="220" height="115" src="https://www.youtube.com/embed/videoseries?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="200" height="100" src="https://www.youtube.com/embed/videoseries?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
