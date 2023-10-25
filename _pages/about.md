@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I design social robots for children and families"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
