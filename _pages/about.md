@@ -22,12 +22,11 @@ In my PhD research, I take a family-centered approach to developing social compa
 
 4) Forming theoretical knowledge from interdisciplinary insights (e.g., [Family Studies](https://bengisucagiltay.github.io/publications/IDC23-short), Communication Sciences, Human-Computer Interaction).
 
+<img src="/images/ResearchThemes.png"  width="500" height="500">
+
 ## Talks and Selected Publications
 
 [Selected Publications](https://bengisucagiltay.github.io/publications/)
-
-<img src="/images/ResearchThemes.png"  width="500" height="500">
-
 [My YouTube Playlist of Paper Talks](https://youtube.com/playlist?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS)
 
 <iframe width="220" height="115" src="https://www.youtube.com/embed/videoseries?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
