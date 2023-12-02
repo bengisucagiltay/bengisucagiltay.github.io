@@ -34,9 +34,15 @@ In my PhD research, I take a family-centered approach to developing social compa
 
 ## Spotlight News
 Dec 1, 2023: Our proposed full-day workshop focusing on "Methods for Family-Centered Design" is accepted for CHI2024.
+
 Nov 22, 2023: My paper focusing on a "A Family-Centered Framework in HRI" is accepted for HRI2024 theory track.
+
 Nov 17, 2023: I was invited to give a talk at the CS Colloqium at University of Iowa, [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)
+
 Jun 22, 2023: Presented my recent work at IDC2023, Chicago (Full Paper: [Homework Companion Robot](https://bengisucagiltay.github.io/publications/IDC23) Short Paper: [Family Theories in HRI](https://bengisucagiltay.github.io/publications/IDC23-short) )
+
 Jun 19, 2023: Hosted a half-day workshop at IDC2023 on [Family-Centered Interaction Design](http://bit.ly/idc23fcid)
+
 May 26, 2023: Passed my qualifying examination focusing on a literature review for "Social Robots for Families"
+
 April 23, 2023: Attended the Doctoral Consortium at CHI2023, Hamburg.
