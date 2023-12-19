@@ -20,7 +20,7 @@ In my research, I take a family-centered approach to developing social companion
 
 3) Deploying robots in family homes (e.g., [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))
 
-4) Forming theoretical knowledge from interdisciplinary insights (e.g., [Family Studies & Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short)
+4) Forming theoretical knowledge from interdisciplinary insights (e.g., [Family Studies & Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short))
 
 <!-- <img src="/images/ResearchThemes.png"  width="500" height="500">  -->
 
