@@ -34,15 +34,15 @@ In my research, I take a family-centered approach to develop design requirements
 
 ## Spotlight News
 
-**Jan 11, 2024** I gave a talk for the [Talking Robotics](https://talking-robotics.github.io) Webinar #69 titled "Robots and Routines: Exploring the Future of Social Robots in Family Life"
+**Jan 11, 2024** I presented my research at the [Talking Robotics](https://talking-robotics.github.io) Webinar #69 titled "Robots and Routines: Exploring the Future of Social Robots in Family Life"
 
-**Dec 18, 2023:** I will be part of the [HRI PIONEERS Workshop 2024 Cohort](https://hripioneers.org/participants).
+**Dec 18, 2023:** I will be part of the HRI PIONEERS Workshop [2024 Cohort](https://hripioneers.org/participants).
 
 **Dec 4, 2023:** Proposed my thesis and advanced to the status of PhD Candidacy.
 
 **Dec 1, 2023:** Our proposed full-day workshop focusing on "Methods for Family-Centered Design" is accepted for CHI2024. [Check out our workshop here!](https://sites.google.com/view/familycentereddesignchi2024/home)
 
-**Nov 22, 2023:** My paper focusing on a "A Family-Centered Framework in HRI" is accepted for HRI2024 theory track.
+**Nov 22, 2023:** My paper focusing on a "A Family-Centered Framework in HRI" is accepted for HRI2024 theory track [Check out the pre-print here!](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
 
 **Nov 17, 2023:** Invited as a speaker at the CS Colloqium at University of Iowa, [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)
 
