@@ -36,7 +36,7 @@ In my research, I take a family-centered approach to develop design requirements
 
 **Jan 11, 2024** I gave a talk for the [Talking Robotics](https://talking-robotics.github.io) Webinar #69 titled "Robots and Routines: Exploring the Future of Social Robots in Family Life"
 
-**Dec 18, 2023:** My submission focusing on "Supporting Long-Term HRI through Shared Family Routines" is accepted to be part of the HRI2024 PIONEERS Workshop.
+**Dec 18, 2023:** I will be part of the [HRI PIONEERS Workshop 2024 Cohort](https://hripioneers.org/participants).
 
 **Dec 4, 2023:** Proposed my thesis and advanced to the status of PhD Candidacy.
 
