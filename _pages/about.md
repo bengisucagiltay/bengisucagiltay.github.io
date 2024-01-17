@@ -1,4 +1,4 @@
-<img width="1686" alt="image" src="https://github.com/bengisucagiltay/bengisucagiltay.github.io/assets/12933558/e453a31e-c872-4786-b371-25f982bffdac">---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
