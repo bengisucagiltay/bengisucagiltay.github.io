@@ -12,6 +12,7 @@ Conference on Human-Robot Interaction (HRI 24 Companion), March 11 – 14, 2024,
 ---
 
 [Download paper here](https://bengisucagiltay.github.io/files/HRI24_pioneers_Cagiltay.pdf)
+
 [Download poster here](https://bengisucagiltay.github.io/files/HRI24_pioneers_poster_Cagiltay.pdf)
 
 <iframe src="/files/HRI24_pioneers_Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
