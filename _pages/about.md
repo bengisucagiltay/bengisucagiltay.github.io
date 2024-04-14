@@ -32,19 +32,19 @@ In my research, I take a family-centered approach to develop design requirements
 
 <iframe width="200" height="100" src="https://www.youtube.com/embed/videoseries?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Spotlight News
+## Highlighted Milestones
+
+<!-- CHI Workshop - May 12 https://sites.google.com/view/familycentereddesignchi2024/home -->
+
+**March 11, 2024** I attended HRI PIONEERS Workshop [2024 Cohort](https://hripioneers.org/participants) and presented my full-paper "Toward Family-Robot Interactions: A Family-Centered Framework in HRI" [Check out the pre-print here!](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
 
 **Jan 11, 2024** I presented my research at the [Talking Robotics](https://talking-robotics.github.io) Webinar #69 titled "Robots and Routines: Exploring the Future of Social Robots in Family Life"
-
-**Dec 18, 2023:** I will be part of the HRI PIONEERS Workshop [2024 Cohort](https://hripioneers.org/participants).
 
 **Dec 4, 2023:** Proposed my thesis and advanced to the status of PhD Candidacy.
 
 **Dec 1, 2023:** Our proposed full-day workshop focusing on "Methods for Family-Centered Design" is accepted for CHI2024. [Check out our workshop here!](https://sites.google.com/view/familycentereddesignchi2024/home)
 
-**Nov 22, 2023:** My paper focusing on a "A Family-Centered Framework in HRI" is accepted for HRI2024 theory track [Check out the pre-print here!](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
-
-**Nov 17, 2023:** Invited as a speaker at the CS Colloqium at University of Iowa, [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)
+**Nov 17, 2023:** I presented my research as an invited speaker at the CS Colloqium at University of Iowa, [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)
 
 **Jun 22, 2023:** Presented my recent work at IDC2023, Chicago (Full Paper: [Homework Companion Robot](https://bengisucagiltay.github.io/publications/IDC23) Short Paper: [Family Theories in HRI](https://bengisucagiltay.github.io/publications/IDC23-short) )
 
