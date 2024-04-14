@@ -36,15 +36,15 @@ In my research, I take a family-centered approach to develop design requirements
 
 <!-- CHI Workshop - May 12 https://sites.google.com/view/familycentereddesignchi2024/home -->
 
-**March 11, 2024** I attended HRI PIONEERS Workshop [2024 Cohort](https://hripioneers.org/participants) and presented my full-paper ["Toward Family-Robot Interactions: A Family-Centered Framework in HRI"](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
+**March 11, 2024** Attended HRI PIONEERS Workshop [2024 Cohort](https://hripioneers.org/participants) and presented my full-paper ["Toward Family-Robot Interactions: A Family-Centered Framework in HRI"](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
 
-**Jan 11, 2024** I presented my research at the [Talking Robotics](https://talking-robotics.github.io) Webinar #69 titled "Robots and Routines: Exploring the Future of Social Robots in Family Life"
+**Jan 11, 2024** Presented my research at the [Talking Robotics](https://talking-robotics.github.io) Webinar #69 titled "Robots and Routines: Exploring the Future of Social Robots in Family Life"
 
 **Dec 4, 2023:** Proposed my thesis and advanced to the status of PhD Candidacy.
 
 **Dec 1, 2023:** Our proposed full-day workshop focusing on "Methods for Family-Centered Design" is accepted for CHI2024. [Check out our workshop here!](https://sites.google.com/view/familycentereddesignchi2024/home)
 
-**Nov 17, 2023:** I presented my research as an invited speaker at the CS Colloqium at University of Iowa, [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)
+**Nov 17, 2023:** Presented my research as an invited speaker at the CS Colloqium at University of Iowa, [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)
 
 **Jun 22, 2023:** Presented my recent work at IDC2023, Chicago (Full Paper: [Homework Companion Robot](https://bengisucagiltay.github.io/publications/IDC23) Short Paper: [Family Theories in HRI](https://bengisucagiltay.github.io/publications/IDC23-short) )
 
