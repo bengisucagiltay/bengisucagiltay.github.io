@@ -36,7 +36,7 @@ In my research, I take a family-centered approach to develop design requirements
 
 <!-- CHI Workshop - May 12 https://sites.google.com/view/familycentereddesignchi2024/home -->
 
-**March 11, 2024** I attended HRI PIONEERS Workshop [2024 Cohort](https://hripioneers.org/participants) and presented my full-paper "Toward Family-Robot Interactions: A Family-Centered Framework in HRI" [Check out the pre-print here!](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
+**March 11, 2024** I attended HRI PIONEERS Workshop [2024 Cohort](https://hripioneers.org/participants) and presented my full-paper ["Toward Family-Robot Interactions: A Family-Centered Framework in HRI"](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
 
 **Jan 11, 2024** I presented my research at the [Talking Robotics](https://talking-robotics.github.io) Webinar #69 titled "Robots and Routines: Exploring the Future of Social Robots in Family Life"
 
