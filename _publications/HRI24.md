@@ -10,8 +10,10 @@ citation: 'Bengisu Cagiltay and Bilge Mutlu. 2024. Toward Family-Robot Interacti
 ---
 
 [Download paper here](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
+[Paper Talk Video Here](https://www.youtube.com/watch?v=W4qABVPg_vM)
+
 <iframe src="/files/HRI24_theory_Cagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/W4qABVPg_vM"></iframe>
 
 
