@@ -1,5 +1,5 @@
 ---
-title: "(IDC21) Understanding Factors that Shape Children's Long Term Engagement with an In-Home Learning Companion Robot"
+title: "(IDC21) Designing Emotionally Expressive Social Commentary to Facilitate Child-Robot Interaction"
 collection: publications
 permalink: /publications/IDC21
 excerpt: ''
