@@ -20,7 +20,7 @@ In my research, I take a family-centered approach to develop design requirements
 
 2) Understanding Real-World Use of Social Robots:  (e.g., in-home deployment of the [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))
 
-3) Theory and Methods for Human-Robot Interaction (e.g., [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)), [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24)
+3) Theory and Methods for Human-Robot Interaction (e.g., Theory: [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)), (Methods and Tools: [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24))
 
 <!-- <img src="/images/ResearchThemes.png"  width="500" height="500">  -->
 
