@@ -10,8 +10,8 @@ redirect_from:
 
 I am a PhD candidate at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) at the Computer Sciences Department of University of Wisconsin-Madison, advised by [Bilge Mutlu](http://bilgemutlu.com). I received my PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), MS degree in Cognitive Science ('20) from [Middle East Technical University](https://cogs.metu.edu.tr/en) and a BS degree in Computer Science ('18) from [Bilkent University](https://w3.cs.bilkent.edu.tr). 
 
-**I am on the job market for post-doc and industry research positions!**_ 
--open to relocate-_
+**I am on the job market for post-doc and industry research positions!**
+_open to relocate_
 
 ## Research Interests
 My research goal is to develop design principles for socially interactive systems and to understand the social, practical, and meaningful impact of these systems in people’s and communities’ everyday lives.
