@@ -16,7 +16,7 @@ I am a PhD candidate at the [People and Robots Laboratory](https://peopleandrobo
 In my research, I take a family-centered approach to develop design requirements for social companion robots tailored to the needs and preferences of children and families. Through qualitative and design-based research, I study user interactions and explore how these technologies can be used to improve families’ lives, facilitate routines, and support connections.
 
 ## Research Themes
-1) Human-Centered Design of Social Robots (e.g., [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23) [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22), [emotion design](https://bengisucagiltay.github.io/publications/IDC21))
+1) Human-Centered Design of Social Robots (e.g., [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23)) (Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots)
 
 2) Understanding Real-World Use of Social Robots:  (e.g., in-home deployment of the [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))
 
