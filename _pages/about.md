@@ -30,7 +30,7 @@ Examples | Designing [in-home robots](https://bengisucagiltay.github.io/publicat
 3) **Understanding Real-World Use of Social Robots:**
 I study how families interact with social robots in natural real-world settings or in research lab contexts; through controlled user studies or exploratory field studies; and over short-term or long-term evaluations.
 
-Examples | in-home deployment of the [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))|
+Examples | [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion|
 
 
 5) **Theory and Methods for Human-Robot Interaction:** I draw theoretical insights from interdisciplinary fields to situate my research in the broader socio-technical systems. I develop design methods to capture a holistic lens in human-robot interaction.
