@@ -24,16 +24,16 @@ My research is categorized in three complementary themes that contribute to our 
 1) **Human-Centered Design of Social Robots:**
 I identify the practical needs and preferences of users for integrating socially interactive systems into daily life, through methods such as participatory design, qualitative interviews, or technology probe studies in real-world settings. I translate these understandings into technical insights that guide design requirements and I conduct iterative design and development processes to prototype social robots for families.
 
-(Example work: Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23)) (Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots)
+Examples | Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23)) | (Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots)|
 
-2) **Understanding Real-World Use of Social Robots:  **
+2) **Understanding Real-World Use of Social Robots:**
 I study how children and families interact with social robots in natural real-world settings or in research lab contexts; through controlled user studies or exploratory field studies; and over short-term or long-term evaluations.
 
-(Example Work: in-home deployment of the [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))
+Examples | in-home deployment of the [Misty robot platform](https://www.mistyrobotics.com/research) as a reading companion [home deployment](https://bengisucagiltay.github.io/publications/HRI23))|
 
 3) **Theory and Methods for Human-Robot Interaction:** I draw theoretical insights from interdisciplinary fields to situate my research in the broader socio-technical systems. I develop design methods to capture a holistic lens in human-robot interaction.
 
-(Example Work | Theory: [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)) | (Methods and Tools: [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24))
+Examples | Theory: [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)) | (Methods and Tools: [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24))|
 
 
 ## Talks and Selected Publications
