@@ -10,8 +10,6 @@ redirect_from:
 
 I am a PhD candidate at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) at the Computer Sciences Department of University of Wisconsin-Madison, advised by [Bilge Mutlu](http://bilgemutlu.com). I received my PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), MS degree in Cognitive Science ('20) from [Middle East Technical University](https://cogs.metu.edu.tr/en) and a BS degree in Computer Science ('18) from [Bilkent University](https://w3.cs.bilkent.edu.tr). 
 
-**I am on the job market for post-doc and industry research positions!**
-_open to relocate_
 
 ## Research Interests
 My research goal is to develop design principles for socially interactive systems and to understand the social, practical, and meaningful impact of these systems in people’s and communities’ everyday lives.
@@ -48,6 +46,9 @@ Examples | Theory: [Family Theories in Human-Robot Interaction](https://bengisuc
 
 ## Highlighted Milestones
 
+<details>
+  <summary>Click to expand my recent milestones</summary>
+
 **February 28, 2025** I will be attending HRI 2025 as part of HRI Pioneers 2025 workshop Networking Chair! 
 
 **February 20, 2025** Co-Organizing two workshops at IDC2025! Full Day Workshop: [Towards a Research Agenda for Including Children and their Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home) & Half Day Workshop: [Designing Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
@@ -72,3 +73,5 @@ Understanding the Changing Needs of Sociocultural and Technical Landscape - [Che
 **May 26, 2023:** Passed my qualifying examination focusing on a literature review for "Social Robots for Families"
 
 **April 23, 2023:** Attended the Doctoral Consortium at CHI2023, Hamburg.
+
+</details>
