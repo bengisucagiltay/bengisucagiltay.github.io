@@ -53,26 +53,23 @@ Three complementary themes describe my research that contributes to our understa
 
 ## Highlighted Milestones
 
-**May 9, 2025:** Successfully defended my Ph.D. in Computer Sciences at the University of Wisconsin–Madison — dissertation titled “Designing Social Robots for Everyday Family Life.”
+- **May 2025:** Successfully defended my Ph.D. dissertation *“Designing Social Robots for Everyday Family Life”* at the University of Wisconsin–Madison.
 
 <details>
-  <summary>Click to expand selected past milestones</summary>
+<summary>▼ Click to expand selected past milestones</summary>
 
-  - **June 23, 2025:** Co-Organized two workshops at IDC2025  
-    - Full Day: [Towards a Research Agenda for Including Children and their Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home)  
-    - Half Day: [Designing Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
-  - **March 3, 2025:** Attended HRI Pioneers 2025 Workshop as Networking Chair
-  - **May 12, 2024:** Hosted full-day CHI2024 workshop on [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)
-  - - **March 11, 2024** Attended HRI PIONEERS Workshop (2024 Cohort) ["Toward Family-Robot Interactions: A Family-Centered Framework in HRI"](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
-  - **March 11, 2024:** Presented full paper [“Toward Family-Robot Interactions”](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)
-  - **Jan 11, 2024:** [Talking Robotics](https://talking-robotics.github.io) Webinar #69: “Robots and Routines”
-  - **Dec 4, 2023:** Advanced to PhD Candidacy
-  - **Nov 17, 2023:** Invited Speaker at University of Iowa – [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)
-  - **April 23, 2023:** Attended the Doctoral Consortium at CHI2023, Hamburg.
-
-- **Jun 19, 2023:** Hosted a half-day workshop at IDC2023 on [Family-Centered Interaction Design](http://bit.ly/idc23fcid)
-
-- **May 26, 2023:** Passed my qualifying examination focusing on a literature review for "Social Robots for Families"
-
+- **June 23, 2025:** Co-Organized two workshops at IDC2025  
+  - Full Day: [Towards a Research Agenda for Including Children and their Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home)  
+  - Half Day: [Designing Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
+- **March 3, 2025:** Attended HRI Pioneers 2025 Workshop as Networking Chair  
+- **May 12, 2024:** Hosted full-day CHI2024 workshop on [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)  
+- **March 11, 2024:** Attended HRI Pioneers Workshop (2024 Cohort) — [“Toward Family-Robot Interactions: A Family-Centered Framework in HRI”](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)  
+- **Jan 11, 2024:** [Talking Robotics](https://talking-robotics.github.io) Webinar #69: “Robots and Routines”  
+- **Dec 4, 2023:** Advanced to PhD Candidacy  
+- **Nov 17, 2023:** Invited Speaker at the University of Iowa — [Rising Stars in HCI](https://cs.uiowa.edu/event/130806/0)  
+- **April 23, 2023:** Attended Doctoral Consortium at CHI2023, Hamburg  
+- **June 19, 2023:** Hosted half-day workshop at IDC2023 — [Family-Centered Interaction Design](http://bit.ly/idc23fcid)  
+- **May 26, 2023:** Passed qualifying examination on “Social Robots for Families”  
 
 </details>
+
