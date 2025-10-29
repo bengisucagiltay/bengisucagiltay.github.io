@@ -67,8 +67,7 @@ Three complementary themes describe my research that contributes to our understa
 - **May 2025:** Successfully defended my Ph.D. dissertation *“Designing Social Robots for Everyday Family Life”* at the University of Wisconsin–Madison.
 
 <details>
-<summary>▼ Click to expand selected past milestones</summary>
-
+<summary>Click to expand selected past milestones</summary>
 - **June 23, 2025:** Co-Organized two workshops at IDC2025  
   - Full Day: [Towards a Research Agenda for Including Children and their Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home)  
   - Half Day: [Designing Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
@@ -81,6 +80,5 @@ Three complementary themes describe my research that contributes to our understa
 - **April 23, 2023:** Attended Doctoral Consortium at CHI2023, Hamburg  
 - **June 19, 2023:** Hosted half-day workshop at IDC2023 — [Family-Centered Interaction Design](http://bit.ly/idc23fcid)  
 - **May 26, 2023:** Passed qualifying examination on “Social Robots for Families”  
-
 </details>
 
