@@ -30,36 +30,40 @@ Three complementary themes describe my research, applied in the context of _soci
 <details>
 <summary><strong>1) Human-Centered Design of Social Robots</strong></summary>
 
+<p markdown="1">
 - I identify the practical needs and preferences of users for integrating socially interactive systems into daily life, through methods such as participatory design, qualitative interviews, or technology probe studies in real-world settings.  
   I translate these understandings into technical insights that guide design requirements, and I conduct iterative design and development processes to prototype social robots for real-world use.
 
 - **Examples:**  
   Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
   Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
-
+</p>
 </details>
 
 <details>
 <summary><strong>2) Understanding Real-World Use of Social Robots</strong></summary>
 
-- I study how users interact with social robots in natural, real-world settings or lab contexts — through controlled user studies, exploratory field studies, and both short- and long-term evaluations.
+<p markdown="1">
+- I study how users interact with social robots in natural, real-world settings or in research lab contexts — through controlled user studies, exploratory field studies, and both short- and long-term evaluations.
 
 - **Examples:**  
   [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
-
+</p>
 </details>
 
 <details>
 <summary><strong>3) Theory and Methods for Human-Robot Interaction</strong></summary>
 
+<p markdown="1">
 - I draw theoretical insights from interdisciplinary fields to situate my research in broader socio-technical systems.  
-  I develop design methods that capture a holistic lens in human-robot interaction.
+  I develop design methods to capture a holistic lens in human-robot interaction.
 
 - **Examples:**  
   **Theory:** [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)  
   **Methods and Tools:** [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24)
-
+</p>
 </details>
+
 
 ---
 
