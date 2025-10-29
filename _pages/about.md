@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/) at the Computer Sciences Department of University of Wisconsin-Madison, advised by [Bilge Mutlu](http://bilgemutlu.com). I received my PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), MS degree in Cognitive Science ('20) from [Middle East Technical University](https://cogs.metu.edu.tr/en) and a BS degree in Computer Science ('18) from [Bilkent University](https://w3.cs.bilkent.edu.tr). 
+I received my PhD ('25) in Computer Sciences at the University of Wisconsin-Madison, advised by [Bilge Mutlu](http://bilgemutlu.com), as part of the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/). I received my PhD minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), MS degree in Cognitive Science ('20) from [Middle East Technical University](https://cogs.metu.edu.tr/en) and BS degree in Computer Science ('18) from [Bilkent University](https://w3.cs.bilkent.edu.tr). 
 
 
 ## Research Interests
