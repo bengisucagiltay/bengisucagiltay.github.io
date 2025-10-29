@@ -13,7 +13,7 @@ I also received a Ph.D. minor in [Human Development and Family Studies](https://
 
 ---
 
-## 🧠 Research Interests
+## 👩🏽‍💻 Research Interests
 
 My research goal is to develop design principles for **socially interactive systems** and to understand their social, practical, and meaningful impact on people’s and communities’ everyday lives.  
 
