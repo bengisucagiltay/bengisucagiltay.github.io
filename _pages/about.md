@@ -34,6 +34,7 @@ Three complementary themes describe my research, applied in the context of _soci
   I identify the practical needs and preferences of users for integrating socially interactive systems into daily life, through methods such as participatory design, qualitative interviews, or technology probe studies in real-world settings.
   I translate these understandings into technical insights that guide design requirements, and I conduct iterative design and development processes to prototype social robots for real-world use.
 
+  
   **Examples:**
   Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
   Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
@@ -46,6 +47,7 @@ Three complementary themes describe my research, applied in the context of _soci
 <p markdown="1">
   I study how users interact with social robots in natural, real-world settings or in research lab contexts — through controlled user studies, exploratory field studies, and both short- and long-term evaluations.
 
+
   **Examples:**  
   [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
 </p>
@@ -57,6 +59,7 @@ Three complementary themes describe my research, applied in the context of _soci
 <p markdown="1">
 I draw theoretical insights from interdisciplinary fields to situate my research in broader socio-technical systems.  
   I develop design methods to capture a holistic lens in human-robot interaction.
+
 
   **Examples:**  
   **Theory:** [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)  
@@ -82,7 +85,8 @@ I draw theoretical insights from interdisciplinary fields to situate my research
 
 <details>
 <summary> Click to expand selected past milestones</summary>
-
+<p markdown="1">
+  
 **June 23, 2025:** Co-organized two workshops at IDC2025  
   
   Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home)  
@@ -105,5 +109,5 @@ I draw theoretical insights from interdisciplinary fields to situate my research
   **June 19, 2023:** Hosted half-day workshop at IDC2023 — [Family-Centered Interaction Design](http://bit.ly/idc23fcid)
   
   **May 26, 2023:** Passed qualifying examination on “Social Robots for Families”
-
+  </p>
 </details>
