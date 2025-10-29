@@ -20,28 +20,39 @@ I take an interdisciplinary approach in my research, grounded in areas such as c
 Three complementary themes describe my research that contributes to our understanding and design of socio-technical systems, applied in the context of _social robots for families_:
 
 <details>
-  <summary> 
-1) **Human-Centered Design of Social Robots:**</summary>
-- I identify the practical needs and preferences of users for integrating socially interactive systems into daily life, through methods such as participatory design, qualitative interviews, or technology probe studies in real-world settings. I translate these understandings into technical insights that guide design requirements and I conduct iterative design and development processes to prototype social robots for real world use.
+<summary><strong>1) Human-Centered Design of Social Robots</strong></summary>
 
-- Examples | Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23) | Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots|
+- I identify the practical needs and preferences of users for integrating socially interactive systems into daily life, through methods such as participatory design, qualitative interviews, or technology probe studies in real-world settings.  
+  I translate these understandings into technical insights that guide design requirements, and I conduct iterative design and development processes to prototype social robots for real-world use.
+
+- **Examples:**  
+  Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
+  Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
+
 </details>
 
 <details>
-  <summary>
-2) **Understanding Real-World Use of Social Robots:**</summary>
+<summary><strong>2) Understanding Real-World Use of Social Robots</strong></summary>
+
 - I study how users interact with social robots in natural real-world settings or in research lab contexts; through controlled user studies or exploratory field studies; and over short-term or long-term evaluations.
 
-- Examples | [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22)|
+- **Examples:**  
+  [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
+
 </details>
 
 <details>
-  <summary>
-3) **Theory and Methods for Human-Robot Interaction:**  </summary>
-  - I draw theoretical insights from interdisciplinary fields to situate my research in the broader socio-technical systems. I develop design methods to capture a holistic lens in human-robot interaction.
+<summary><strong>3) Theory and Methods for Human-Robot Interaction</strong></summary>
 
-- Examples | Theory: [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24) | Methods and Tools: [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24)|
+- I draw theoretical insights from interdisciplinary fields to situate my research in the broader socio-technical systems.  
+  I develop design methods to capture a holistic lens in human-robot interaction.
+
+- **Examples:**  
+  **Theory:** [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)  
+  **Methods and Tools:** [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24)
+
 </details>
+
 
 ## Talks and Selected Publications
 
