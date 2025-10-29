@@ -18,7 +18,7 @@ I also received a Ph.D. minor in [Human Development and Family Studies](https://
 My research goal is to develop design principles for **socially interactive systems** and to understand their social, practical, and meaningful impact on people’s and communities’ everyday lives.  
 
 I take an **interdisciplinary approach**, grounded in areas such as computer science, interaction design, cognitive science, and human ecology.  
-I apply qualitative and design-based methods to understand user needs, develop technical insights, and design, prototype, and deploy socio-technical systems.  
+I apply **qualitative and design-based methods** to understand user needs, develop technical insights, and design, prototype, and deploy socio-technical systems.  
 I use ecological theories to describe phenomena observed in long-term, real-world deployments.
 
 ---
@@ -87,10 +87,7 @@ I draw theoretical insights from interdisciplinary fields to situate my research
 <summary> Click to expand selected past milestones</summary>
 <p markdown="1">
   
-**June 23, 2025:** Co-organized two workshops at IDC2025  
-  
-  Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home)  
-  Half Day: [Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
+**June 23, 2025:** Co-organized two workshops at IDC2025. Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home). Half Day: [Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
   
   **March 3, 2025:** Attended HRI Pioneers 2025 Workshop as Networking Chair  
   
