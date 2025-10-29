@@ -35,8 +35,7 @@ Three complementary themes describe my research, applied in the context of _soci
   I translate these understandings into technical insights that guide design requirements, and I conduct iterative design and development processes to prototype social robots for real-world use.
 
   
-  **Examples:**
-  Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
+  **Examples:** Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
   Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
 </p>
 </details>
@@ -49,8 +48,7 @@ Three complementary themes describe my research, applied in the context of _soci
   
 
 
-  **Examples:**  
-  [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
+  **Examples:**  [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
 </p>
 </details>
 
@@ -90,10 +88,10 @@ I draw theoretical insights from interdisciplinary fields to situate my research
 <p markdown="1">
   
 **June 23, 2025:** Co-organized IDC2025 workshops - Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home). Half Day: [Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
-  
-  **March 3, 2025:** HRI Pioneers 2025 Workshop - Networking Chair  
-  
-  **May 12, 2024:** Hosted full-day CHI2024 workshop - [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)  
+
+**March 3, 2025:** HRI Pioneers 2025 Workshop - Networking Chair
+
+**May 12, 2024:** Hosted full-day CHI2024 workshop - [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)  
   
   **March 11, 2024:** Attended HRI Pioneers Workshop (2024 Cohort) — [“Toward Family-Robot Interactions: A Family-Centered Framework in HRI”](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)  
   
