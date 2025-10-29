@@ -28,7 +28,7 @@ Three complementary themes describe my research that contributes to our understa
 </details>
 
 <details>
-  <summary> </summary>
+  <summary>
 2) **Understanding Real-World Use of Social Robots:**</summary>
 - I study how users interact with social robots in natural real-world settings or in research lab contexts; through controlled user studies or exploratory field studies; and over short-term or long-term evaluations.
 
