@@ -83,13 +83,13 @@ I translate these understandings into design requirements and prototype social r
 <summary> Below are some milestones that have shaped my academic path so far:</summary>
 <p markdown="1">
   
-  **June 23, 2025:** Co-organized IDC2025 workshops - Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home). Half Day: [Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
+  **June 23, 2025:** Co-organized IDC2025 workshops - Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home). Half Day: [Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)  
 
   
-  **March 3, 2025:** HRI Pioneers 2025 Workshop - Networking Chair
+  **March 3, 2025:** HRI Pioneers 2025 Workshop - Networking Chair  
 
   
-  **May 12, 2024:** Hosted full-day CHI2024 workshop - [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)
+  **May 12, 2024:** Hosted full-day CHI2024 workshop - [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)  
 
   
   **March 11, 2024:** Attended HRI Pioneers Workshop (2024 Cohort) — [“Toward Family-Robot Interactions: A Family-Centered Framework in HRI”](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)  
@@ -102,8 +102,8 @@ I translate these understandings into design requirements and prototype social r
   
   **April 23, 2023:** Attended Doctoral Consortium at CHI2023, Hamburg  
   
-  **June 19, 2023:** Hosted half-day IDC2023 workshop — [Family-Centered Interaction Design](http://bit.ly/idc23fcid)
+  **June 19, 2023:** Hosted half-day IDC2023 workshop — [Family-Centered Interaction Design](http://bit.ly/idc23fcid)  
   
-  **May 26, 2023:** Passed qualifying examination on “Social Robots for Families”
+  **May 26, 2023:** Passed qualifying examination on “Social Robots for Families”  
   </p>
 </details>
