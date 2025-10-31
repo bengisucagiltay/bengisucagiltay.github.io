@@ -7,25 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I received my Ph.D. (’25) in Computer Sciences at the **University of Wisconsin–Madison**, advised by [Bilge Mutlu](http://bilgemutlu.com), as part of the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/).  
-I also received a Ph.D. minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), an M.S. in **Cognitive Science** (’20) from [Middle East Technical University](https://cogs.metu.edu.tr/en), and a B.S. in **Computer Science** (’18) from [Bilkent University](https://w3.cs.bilkent.edu.tr).
+I received my Ph.D. in Computer Sciences (’25) at the **University of Wisconsin–Madison**, advised by [Bilge Mutlu](http://bilgemutlu.com), in the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/).  
+I also hold a Ph.D. minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), an M.S. in **Cognitive Science** (’20) from [Middle East Technical University](https://cogs.metu.edu.tr/en), and a B.S. in **Computer Science** (’18) from [Bilkent University](https://w3.cs.bilkent.edu.tr).
 
 ---
 
 ## 👩🏽‍💻 Research Interests
 
-My research goal is to develop design principles for **socially interactive systems** and to understand their social, practical, and meaningful impact on people’s and communities’ everyday lives.  
+I develop design principles for **socially interactive systems** (e.g., social robots) and study their **social and practical impact** in everyday contexts. My work takes an **interdisciplinary approach** grounded in computer science, interaction design, cognitive science, and human ecology.  
 
-I take an **interdisciplinary approach**, grounded in areas such as computer science, interaction design, cognitive science, and human ecology.  
-I apply **qualitative and design-based methods** to understand user needs, develop technical insights, and design, prototype, and deploy socio-technical systems.  
-I use ecological theories to describe phenomena observed in long-term, real-world deployments.
+I apply **qualitative and design-based methods** to understand user needs, generate technical insights, and design, prototype, and deploy socio-technical systems.  
+I use **ecological and family theories** to describe how people engage with technology in long-term, real-world settings.
 
 ---
 
 ## 🤖 Research Themes
 
-Three complementary themes describe my research, applied in the context of _social robots for families_ 👪🏡🤖:
+My research can be understood through three interconnected themes, applied in the context of _social robots for families_ 🤖🏡👪:
 
 <details>
 <summary><strong>1) Human-Centered Design of Social Robots</strong></summary>
@@ -35,10 +33,10 @@ Three complementary themes describe my research, applied in the context of _soci
   I translate these understandings into technical insights that guide design requirements, and I conduct iterative design and development processes to prototype social robots for real-world use.
 
   
-  **Examples:** Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
+  **Example Publications:** Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
   Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
 </p>
-</details>
+</details><br>
 
 <details>
 <summary><strong>2) Understanding Real-World Use of Social Robots</strong></summary>
@@ -48,9 +46,9 @@ Three complementary themes describe my research, applied in the context of _soci
   
 
 
-  **Examples:**  [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
+  **Example Publications:**  [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
 </p>
-</details>
+</details><br>
 
 <details>
 <summary><strong>3) Theory and Methods for Human-Robot Interaction</strong></summary>
@@ -61,11 +59,11 @@ I draw theoretical insights from interdisciplinary fields to situate my research
   
 
 
-  **Examples:**  
+  **Example Publications:**  
   **Theory:** [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)  
   **Methods and Tools:** [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24)
 </p>
-</details>
+</details><br>
 
 
 ---
@@ -84,14 +82,14 @@ I draw theoretical insights from interdisciplinary fields to situate my research
 - **May 2025:** Successfully defended my Ph.D. dissertation *“Designing Social Robots for Everyday Family Life”* at the University of Wisconsin–Madison.
 
 <details>
-<summary> Click to expand selected past milestones</summary>
+<summary> Below are some milestones that have shaped my academic path so far:</summary>
 <p markdown="1">
   
-**June 23, 2025:** Co-organized IDC2025 workshops - Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home). Half Day: [Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
-
-**March 3, 2025:** HRI Pioneers 2025 Workshop - Networking Chair
-
-**May 12, 2024:** Hosted full-day CHI2024 workshop - [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)  
+  **June 23, 2025:** Co-organized IDC2025 workshops - Full Day: [Care Ecosystems in HCI](https://sites.google.com/view/idc25-ecocare/home). Half Day: [Playful and Ethical Child-AI Systems](https://sites.google.com/iu.edu/idc-2025-workshop/home)
+  
+  **March 3, 2025:** HRI Pioneers 2025 Workshop - Networking Chair
+  
+  **May 12, 2024:** Hosted full-day CHI2024 workshop - [“Methods for Family-Centered Design”](https://mobiletechteens-chi2025.github.io)
   
   **March 11, 2024:** Attended HRI Pioneers Workshop (2024 Cohort) — [“Toward Family-Robot Interactions: A Family-Centered Framework in HRI”](https://bengisucagiltay.github.io/files/HRI24_theory_Cagiltay.pdf)  
   
