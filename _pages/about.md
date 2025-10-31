@@ -21,7 +21,7 @@ I use **ecological and family theories** to describe how people engage with tech
 
 ---
 
-## 🤖 Research Themes
+## 🤖 Research Themes and Methods
 
 My research can be understood through three interconnected themes, applied in the context of _social robots for families_ 🤖🏡👪:
 
@@ -29,41 +29,39 @@ My research can be understood through three interconnected themes, applied in th
 <summary><strong>1) Human-Centered Design of Social Robots</strong></summary>
 
 <p markdown="1">
-  I identify the practical needs and preferences of users for integrating socially interactive systems into daily life, through methods such as participatory design, qualitative interviews, or technology probe studies in real-world settings.
-  I translate these understandings into technical insights that guide design requirements, and I conduct iterative design and development processes to prototype social robots for real-world use.
-
+  I identify users’ practical needs and preferences for integrating socially interactive systems into daily life through <it>participatory design, qualitative interviews, and technology probe studies.</it>
+I translate these understandings into design requirements and prototype social robots for real-world use.
   
-  **Example Publications:** Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23).  
-  Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
+  **Example Publications:** Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23). Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
 </p>
-</details><br>
+
+</details>
 
 <details>
 <summary><strong>2) Understanding Real-World Use of Social Robots</strong></summary>
 
 <p markdown="1">
-  I study how users interact with social robots in natural, real-world settings or in research lab contexts — through controlled user studies, exploratory field studies, and both short- and long-term evaluations.
-  
+  I study how users interact with social robots in natural, real-world settings and lab contexts through <it>controlled studies, exploratory fieldwork, and both short- and long-term evaluations.</it>  
 
 
   **Example Publications:**  [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
 </p>
-</details><br>
+
+</details>
 
 <details>
 <summary><strong>3) Theory and Methods for Human-Robot Interaction</strong></summary>
 
 <p markdown="1">
-I draw theoretical insights from interdisciplinary fields to situate my research in broader socio-technical systems.  
-  I develop design methods to capture a holistic lens in human-robot interaction.
-  
+  I draw theoretical insights from interdisciplinary fields to situate my research in broader socio-technical systems and develop design methods for holistic human-robot interaction.  
 
 
   **Example Publications:**  
   **Theory:** [Family Theories in Human-Robot Interaction](https://bengisucagiltay.github.io/publications/IDC23-short), [Toward Family-Robot Interactions](https://bengisucagiltay.com/publications/HRI24)  
   **Methods and Tools:** [Theater-inspired interaction design](https://bengisucagiltay.com/publications/DIS24), [Family-Robot Routines Inventory](https://bengisucagiltay.com/publications/ROMAN24)
 </p>
-</details><br>
+
+</details>
 
 
 ---
@@ -71,7 +69,7 @@ I draw theoretical insights from interdisciplinary fields to situate my research
 ## 🗣️ Talks and Selected Publications
 
 - [**Selected Publications**](https://bengisucagiltay.github.io/publications/)  
-- [**My YouTube Playlist of Paper Talks**](https://youtube.com/playlist?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS)
+- [**YouTube Playlist of Paper Talks**](https://youtube.com/playlist?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS)
 
 <iframe width="300" height="160" src="https://www.youtube.com/embed/videoseries?list=PL5pl7-dRbTJx9rgF5OlYDVQVks_WQ-8BS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
