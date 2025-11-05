@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an Assistant Professor of [Media and Visual Arts](https://cssh.ku.edu.tr/en/programs/media-and-visual-arts/) at Koç University, Istanbul. I specialize in interaction design (IxD) and user experience research (UXR) in the context of social robots in everyday life.
+I'm an Assistant Professor of [Media and Visual Arts](https://cssh.ku.edu.tr/en/programs/media-and-visual-arts/) at Koç University, Istanbul. I specialize in interaction design (IxD) and user experience (UX) research in the context of social robots in everyday life.
 
 I received my Ph.D. in **Computer Sciences** (’25) at the University of Wisconsin–Madison, advised by [Bilge Mutlu](http://bilgemutlu.com), in the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/).  
 I also hold a Ph.D. minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), an M.S. in **Cognitive Science** (’20) from [Middle East Technical University](https://cogs.metu.edu.tr/en), and a B.S. in **Computer Science** (’18) from [Bilkent University](https://w3.cs.bilkent.edu.tr).
