@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an Assistant Professor of [Media and Visual Arts](https://cssh.ku.edu.tr/en/programs/media-and-visual-arts/) at Koç University, Istanbul. I specialize in interaction design (IxD) and user experience (UX) research in the context of social robots in everyday life.
-
 I received my Ph.D. in **Computer Sciences** (’25) at the University of Wisconsin–Madison, advised by [Bilge Mutlu](http://bilgemutlu.com), in the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/staff/cagiltay-bengisu/).  
 I also hold a Ph.D. minor in [Human Development and Family Studies](https://humanecology.wisc.edu/academics/graduate-programs/human-development-family-studies/), an M.S. in **Cognitive Science** (’20) from [Middle East Technical University](https://cogs.metu.edu.tr/en), and a B.S. in **Computer Science** (’18) from [Bilkent University](https://w3.cs.bilkent.edu.tr).
 
@@ -31,8 +29,7 @@ My research can be understood through three interconnected themes, applied in th
 <summary><strong>1) Human-Centered Design of Social Robots</strong></summary>
 
 <p markdown="1">
-  I identify users’ practical needs and preferences for integrating socially interactive systems into daily life through <it>participatory design, qualitative interviews, and technology probe studies.</it>
-I translate these understandings into design requirements and prototype social robots for real-world use.
+  I explore how socially interactive systems (e.g., social robots) can fit meaningfully into everyday life. Using participatory design, qualitative interviews, and technology probe studies, I identify users’ needs and translate them into design requirements. These insights inform prototypes of social robots designed for real-world contexts.
   
   **Example Publications:** Designing [in-home robots](https://bengisucagiltay.github.io/publications/IDC20) as [reading companions](https://bengisucagiltay.github.io/publications/IDC22), for [caretaking](https://bengisucagiltay.github.io/publications/IDC22short), and as [homework assistants](https://bengisucagiltay.github.io/publications/IDC23). Designing [unboxing experiences](https://bengisucagiltay.github.io/publications/CHI22) and [emotional expressions](https://bengisucagiltay.github.io/publications/IDC21) for social robots.
 </p>
@@ -43,8 +40,8 @@ I translate these understandings into design requirements and prototype social r
 <summary><strong>2) Understanding Real-World Use of Social Robots</strong></summary>
 
 <p markdown="1">
-  I study how users interact with social robots in natural, real-world settings and lab contexts through <it>controlled studies, exploratory fieldwork, and both short- and long-term evaluations.</it>  
-
+  I study how people interact with social robots in both natural environments and controlled settings through fieldwork, lab studies, and long-term deployments. 
+  My work reveals how social robots fit into everyday routines, relationships, and expectations.
 
   **Example Publications:**  [4-week in-home deployment](https://bengisucagiltay.github.io/publications/HRI23) of the [Misty robot platform](https://www.mistyrobotics.com/research) as a [reading companion robot for children](https://bengisucagiltay.github.io/publications/IDC22).
 </p>
@@ -55,7 +52,7 @@ I translate these understandings into design requirements and prototype social r
 <summary><strong>3) Theory and Methods for Human-Robot Interaction</strong></summary>
 
 <p markdown="1">
-  I draw theoretical insights from interdisciplinary fields to situate my research in broader socio-technical systems and develop design methods for holistic human-robot interaction.  
+  I draw theoretical insights from design, social sciences, and cognitive science to understand human-robot interaction as part of broader socio-technical systems. My research contributes new design frameworks and methodological approaches for studying and shaping meaningful human-robot relationships.
 
 
   **Example Publications:**  
