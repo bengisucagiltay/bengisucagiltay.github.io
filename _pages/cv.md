@@ -12,9 +12,14 @@ redirect_from:
 You can download my full resume [here](/files/Resume_BengisuCagiltay.pdf)
 <iframe src="/files/Resume_BengisuCagiltay.pdf" width="100%" height="480" allow="autoplay"></iframe>
 
+Current Position
+======
+* Assistant Professor, Media and Visual Arts
+  * Koç University Istanbul, Turkey
+
 Education
 ======
-* Ph.D. in Computer Sciences, University of Wisconsin-Madison, 2025 (expected)
+* Ph.D. in Computer Sciences, University of Wisconsin-Madison, 2025
   * Ph.D. Minor in Human Development and Family Studies
 * M.S. in Cognitive Science, Middle East Technical University, Turkey, 2020
 * B.S. in Computer Science, Bilkent University, Turkey, 2018
